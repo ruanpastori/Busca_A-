@@ -59,6 +59,8 @@ Utilizando:
 * Distâncias reais entre cidades.
 * Distância em linha reta até Bucharest como heurística.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f9dd683c-d2b6-4215-9b7c-e4f4afd7d2a4" />
+
 ---
 
 # ⚙️ Estrutura do Código
@@ -421,18 +423,3 @@ A implementação do algoritmo A* demonstrou a eficiência das buscas heurístic
 A utilização da heurística permitiu reduzir significativamente a quantidade de estados explorados quando comparado a algoritmos não informados, tornando a busca mais rápida e eficiente.
 
 Além dos conceitos de Inteligência Artificial, o projeto aplicou práticas de Engenharia de Software através da documentação UML, contribuindo para uma melhor compreensão do sistema desenvolvido.
-## Diagrama de Caso de Uso
-
-![Caso de Uso](docs/images/caso-de-uso.png)
-
-## Diagrama de Sequência
-
-![Sequência](docs/images/sequencia.png)
-
-## Diagrama de Estados
-
-![Estados](docs/images/estados.png)
-
-## Execução do Algoritmo
-
-![Execução](docs/images/execucao-a-star.png)
